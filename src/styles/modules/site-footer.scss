@@ -1,0 +1,18 @@
+footer {
+
+small {
+	display:inline-block;
+	@media screen and (max-width: 700px) {
+    padding: 2em 0;
+}
+}
+	.logo {
+	text-align:center;
+	    display: inline-block;
+    width: 500px;
+    @media screen and (max-width: 900px) {
+    width: 197px;
+    float: right;
+}
+	}
+}
